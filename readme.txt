@@ -9,11 +9,3 @@ After you create the first page (Hint: jsp using jstl to get all the products fr
 
 In a checkout page you will display the content of the shopping cart and add an update button fro each product so that the quantities can be modified for each product.
 "
-
-
-
-Grayson Thacker
-get26
-
-Steven Speer
-scs167
