@@ -1,12 +1,4 @@
-store-database-script.sql will create and populate the database and table used by 
-this web app.
-
-There are comments in the .java and .jsp files regarding the specifications provided
-by the professor. I am confident this submission fully meets the requirements we
-were provided. If any questions arise or I can help clear up any confusion about 
-what was requested, please do not hesitate to contact me at get26@txstate.edu .
-
-The following is the entirety of the instructions Dr. Visinescu provided us:
+The following is the entirety of the assignment instructions:
 
 "
 In this project you will create a shopping page with products populated from a database. The name of the database is Store and the name of the table of products is Products. The name of the pictures is pic1, pic2...pic10.
